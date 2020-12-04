@@ -43,7 +43,7 @@ public class Keys {
         fos.flush();
         fos.close();
     }
-
+    /**
     public static void main(String[] args) {
         Keys gk;
         try {
@@ -58,5 +58,6 @@ public class Keys {
         }
 
     }
+     **/
 
 }
